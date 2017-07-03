@@ -3,9 +3,6 @@
 	"version": "0.0.0",
 	"dependencies": {
 		"jquery": "~1.11.0",
-		"bootstrap": "3.3.5",
-		"react": "^15.5.4",
-		"react-router": "^4.1.1",
-		"q": "1.0.1"
+		"react": "^15.5.4"
 	}
 }
