@@ -1,3 +1,4 @@
+###此demo是建立在nodejs的基础之上
 1.nodejs安装
 2.安装gulp
 	npm install -g gulp
